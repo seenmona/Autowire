@@ -13,6 +13,7 @@ public class DepeYbApplication {
         a.show();
 //        Alien b=context.getBean(Alien.class);
 //        b.show();
+//        AM REUSIT
         }
 
 
